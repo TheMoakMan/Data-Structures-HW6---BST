@@ -1,0 +1,27 @@
+janexc3-123456789
+34 y
+1
+         empty
+       154 p
+             empty
+           84 x
+             empty
+         73 w
+           empty
+     54 x
+         empty
+       36 x
+             empty
+           32 x
+             empty
+         5 a
+           empty
+   3 h
+     empty
+Size is: 8
+Count for 57 is: 0
+
+   empty
+Size is: 0
+Count for 57 is: 0
+MyMap::at
